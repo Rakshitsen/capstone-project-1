@@ -5,4 +5,4 @@ add something in develop
 add something on main branch
 
 
-time to final deployment to production 
+time to final deployment to productions
