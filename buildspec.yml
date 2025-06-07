@@ -15,7 +15,3 @@ phases:
   post_build:
     commands:
       - echo configuration Nginx
-
-artifacts:
-  files:
-    - /**/*
